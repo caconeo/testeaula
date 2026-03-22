@@ -1,3 +1,7 @@
 lista de compras
 presentes
 catalogo
+1 - mesa
+2 - cadeiras
+3 - livros
+4 - tesoura
